@@ -65,14 +65,14 @@ body{
     padding: 2rem; 
     background-color: var(--White);   
 }
-.hero h2{
+.hero h1{
     font-family: "Montserrat", sans-serif;
     font-size: clamp(0.75rem, 2vw, 0.813rem);
     color: var(--Dark-grayish-blue);
     letter-spacing: 0.35em;
     font-weight: 600;
 }
-.hero h1{
+.hero h2{
     font-family: "Fraunces", serif;
     font-size: clamp(2rem, 2vw, 2.5rem);
     font-weight: 800;
