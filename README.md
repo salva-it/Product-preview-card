@@ -1,8 +1,8 @@
 
 ### Links
 
-- Solution URL: https://github.com/salva-it/social-links-profile-main.git
-- Live Site URL: (https://salva-it.github.io/social-links-profile-main/)
+- Solution URL: https://github.com/salva-it/Product-preview-card.git
+- Live Site URL: (https://salva-it.github.io/Product-preview-card/)
 
 
 ### Built with
